@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div className="min-h-[calc(100dvh-64px)] container mx-auto">
       <h2 className="text-center text-2xl m-5">Python++</h2>
-      <Tabs defaultValue="account">
+      <Tabs defaultValue="input">
         <TabsList className="flex">
           <TabsTrigger value="input">Input</TabsTrigger>
           <TabsTrigger value="output">Output</TabsTrigger>
