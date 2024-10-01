@@ -9,7 +9,6 @@ const Hero = () => {
       <Link to="/">
         <Button className="bg-[#FFDD6F] text-neutral-800 hover:bg-[#FFDD40] hover:text-neutral-700">Try now!</Button>
       </Link>
-
     </div>
   )
 }
