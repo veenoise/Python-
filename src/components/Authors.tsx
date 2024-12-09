@@ -2,15 +2,11 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
 
 const authorNames = [
   {
-    name: "Danielo Kim Ang",
+    name: "Janine Arzadon",
     imgSrc: "https://github.com/shadcn.png"
   },
   {
-    name: "Janine Anne Arzadon",
-    imgSrc: "https://github.com/shadcn.png"
-  },
-  {
-    name: "William Eduard Chua",
+    name: "William Chua",
     imgSrc: "https://github.com/shadcn.png"
   },
   {
@@ -22,7 +18,7 @@ const authorNames = [
     imgSrc: "https://github.com/shadcn.png"
   },
   {
-    name: "Whayne Tyrece ",
+    name: "Tyrece Tan",
     imgSrc: "https://github.com/shadcn.png"
   },
   
